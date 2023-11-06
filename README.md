@@ -1,4 +1,4 @@
 # RSNA-2023-Abdominal-Trauma-Detection
 RSNA 2023 Kaggle competition
 
-![image](https://github.com/JD-Hwang/RSNA-2023-Abdominal-Trauma-Detection/assets/65854964/1244fa67-8eee-41e3-8896-4d0d495fcd83)
+![image](https://github.com/JD-Hwang/DNN_TL4fMRI/assets/65854964/6878d8eb-cd87-4a41-aada-a4c29fe99c0c)
