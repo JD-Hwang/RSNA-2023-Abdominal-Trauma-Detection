@@ -1,5 +1,5 @@
 # RSNA-2023-Abdominal-Trauma-Detection
-RSNA 2023 Kaggle competition
+RSNA 2023 Kaggle competition (https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection)
 
 - *Team MI2RL&CILAB*
 - *Team SANGMOON*
